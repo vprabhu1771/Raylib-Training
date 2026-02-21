@@ -27,3 +27,5 @@ int main()
     CloseWindow();
 }
 ```
+
+![Image](1.PNG)
